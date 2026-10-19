@@ -16,14 +16,6 @@ Databases: PostgreSQL, MySQL, SQLite, Neon
 
 Tools: Git, GitHub, Docker, VS Code, IntelliJ IDEA
 
-## 🚀 Featured Projects
-
-Fishbowl Studies — A full-stack study application designed to support group learning and collaborative studying.
-
-Nat20 Network — A Dungeons & Dragons campaign finder and management platform, with a focus on systems administration functionality.
-
-Fishbowl Exhibit — A web-based shopping cart application built with PHP and Laravel.
-
 ## 🙋 A Bit About Me
 
 🎓 Studying Computer Science with minors in Biology and Mathematics.
